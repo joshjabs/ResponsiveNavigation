@@ -5,7 +5,7 @@ function changeCSS(cssFile, cssLinkIndex) {
     var newlink = document.createElement("link");
     newlink.setAttribute("rel", "stylesheet");
     newlink.setAttribute("type", "text/css");
-    newlink.setAttribute("href", cssFile);
+    newlink.setAttribute("href", 'css/' + cssFile);
 
     document.getElementsByTagName("head").item(cssLinkIndex).replaceChild(newlink, oldlink);
 }

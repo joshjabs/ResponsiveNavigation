@@ -9,6 +9,6 @@ This is a free educational resource released under the MIT License.
 Use, build, and snip from this project however you like!
 
 
-![Alt Text](NavOpen.gif)
+![Alt Text](img/NavOpen.gif)
 
 
