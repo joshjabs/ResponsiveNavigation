@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    font-family: 'Anton', sans-serif;
+}
+
+nav {
+    position:fixed;
+    z-index: 10;
+    left:0;
+    right:0;
+    top: 0;
+    height: 100px;
+    background-color: rgba(3, 2, 100, 0.767);
+}
+
+pre {
+    background-color:rgba(151, 151, 151, 0.692) !important;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+footer {
+    background-color:rgb(9, 9, 48);
+}

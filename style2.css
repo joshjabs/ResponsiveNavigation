@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
+
+* {
+    font-family: 'Reggae One', cursive;
+}
+
+nav {
+    position:fixed;
+    z-index: 10;
+    left:0;
+    right:0;
+    top: 0;
+    height: 100px;
+    background-color: rgba(7, 119, 12, 0.9);
+}
+
+pre {
+    background-color:rgba(3, 85, 21, 0.692) !important;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+footer {
+    background-color:rgb(48, 41, 9);
+}
